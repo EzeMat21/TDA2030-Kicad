@@ -1,0 +1,7 @@
+#Ignorar los siguientes archivos:
+
+TDA2030_DualSupply-cache
+TDA2030_DualSupply.sch-bak
+TDA2030_DualSupply.net
+TDA2030_DualSupply.kicad_pcb-bak
+fp-info-cache
